@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113337233897",
+    "project_id": "authtutorial-b2f4d",
+    "storage_bucket": "authtutorial-b2f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113337233897:android:afea93496b92f35babdb78",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113337233897-mfoce1cs01o6l6qpugnu6suqprcsv5g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2gNcTGwoRmVtBIjYOBBR1p_iTfqK3ns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113337233897-mfoce1cs01o6l6qpugnu6suqprcsv5g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
