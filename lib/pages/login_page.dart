@@ -33,7 +33,9 @@ class _LoginPageState extends State<LoginPage> {
         email: eMailController.text,
         password: passwordController.text,
       );
-      Navigator.pop(context);
+      print('Loged in!');
+
+      //Navigator.pop(context);
     } on FirebaseAuthException catch (e) {
       Navigator.pop(context);
       //Wrong email
